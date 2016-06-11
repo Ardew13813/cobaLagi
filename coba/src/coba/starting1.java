@@ -8,6 +8,7 @@ public class starting1 {
 		System.out.printf(utama + opo);
 		System.out.printf("askjhdjas");
 		System.out.printf("askjh");
+		System.out.printf("askjhfhfh");
 		
 	}
 
