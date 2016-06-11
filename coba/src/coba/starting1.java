@@ -6,6 +6,7 @@ public class starting1 {
 		
 		String opo = "gelisah";
 		System.out.printf(utama + opo);
+		System.out.printf("askjhdjas");
 		
 	}
 
